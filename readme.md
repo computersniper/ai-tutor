@@ -1,4 +1,4 @@
-# 多智能体AI助教系统 - Data Structures and Algorithms
+# 多智能体AI助教系统 - Multi-agent AI Tutor system
 
 **🌐 Language:** [English](#) | [中文](readme_zh.md)
 
